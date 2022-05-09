@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+}
+
+.parent {
+    width: 100vw;
+    height: 100vh;;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.locomotion {
+display: flex;
+flex-direction: column;
+margin-left: 20px;
+margin-right: 20px;
+justify-content: center;
+align-items: center;
+
+}
+
+.gallery {
+  display: flex;
+   
+    flex-direction: column;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+}
